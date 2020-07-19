@@ -1,5 +1,8 @@
 # Research Repository Template
 
+This repository can serve as a template for research projects.
+
+
 ## Table of Contents
 - [Ideas](https://github.com/alahnala/research-template/tree/master/Ideas): I like to use the README.md here to take note and track progress on ideas for the project.
 - [Literature Review](https://github.com/alahnala/research-template/tree/master/Literature-Review): Place to save papers from literature review. I like to use the README.md here to take note of the objectives, contributions, methods, findings, etc from each work.
@@ -14,3 +17,8 @@
 
 - [Research Repository Template](https://github.com/alahnala/research-template) created by Allie Lahnala. 
 - Original repository can be found at https://github.com/alahnala/research-template.
+
+## License
+
+This project is licensed under the terms of the MIT license. See [LICENSE](https://github.com/alahnala/research-template/blob/master/LICENSE) file for rights and limitations.
+
