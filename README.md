@@ -2,6 +2,8 @@
 
 This repository can serve as a template for research projects.
 
+![CoolWarm](https://raw.githubusercontent.com/alahnala/visuals/master/Figures/CW-resize-small.png)
+
 
 ## Table of Contents
 
